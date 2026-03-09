@@ -149,3 +149,5 @@ Get the same Cline experience with enterprise-grade controls: SSO (SAML/OIDC), g
 ## License
 
 [Apache 2.0 © 2026 Cline Bot Inc.](./LICENSE)
+
+how can coderabbit help cline maintainers?
